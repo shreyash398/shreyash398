@@ -78,7 +78,8 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="<img width="845" height="1095" alt="image" src="https://github.com/user-attachments/assets/d140798a-4ada-423c-ba69-ecd750b31331" />
+e" alt="Streak" />
 </div>
 
 ---
