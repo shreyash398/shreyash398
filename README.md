@@ -78,7 +78,8 @@
 
 <div align="center">
   <br/>
-  <img src="<img width="845" height="1095" alt="image" src="https://github.com/user-attachments/assets/d140798a-4ada-423c-ba69-ecd750b31331" />
+  <img width="845" height="1095" alt="contributions" src="https://github.com/user-attachments/assets/83bcd643-382c-45f1-bd98-d5ac9d46b7eb" />
+" />
 e" alt="Streak" />
 </div>
 
